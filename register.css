@@ -1,0 +1,53 @@
+/* Feito para projeto escolar, podem ter vários erros, problemas e/ou incoerências // Made for a school project, there may have some errors, problems and/or incoherent */
+header{
+    position: absolute;
+    width: 1920px;
+    height: 50px;
+    top: 0.4px;
+    right: 0.3px;
+    background-color: rgb(0, 0, 0);
+    
+}
+img{
+    width:100px;
+    height: auto;
+    position: absolute;
+    right: 900px;
+    top:10px
+}
+.d1{
+    background-color: black;
+    opacity: 0.8;
+    display: flexbox;
+    position: absolute;
+    height: 900px;
+    width: 1920px;
+    right: 0.3px;
+    top: 50px;
+
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c3fc8a30075835.57ad1345e9089.jpg);
+    background-position-x: center;
+    background-size: 2195px, auto;
+
+}
+main{
+    color: white;
+    font-family: "Segoe UI", Arial, sans-serif;
+    
+
+}
+footer{
+    position: absolute;
+    width: 1920px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    bottom: 0.4px;
+    right: 0.4px;
+}
+input{
+    right:300px
+}
+/* Feito para projeto escolar, podem ter vários erros, problemas e/ou incoerências // Made for a school project, there may have some errors, problems and/or incoherent */

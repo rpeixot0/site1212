@@ -1,0 +1,4 @@
+Para seguir ao site de login é só clicar na logo.
+No site de login para ir ao de registro é só apertar no botão Log-in.
+No site de resgitro ao apertar o botão de registrar você será redirecionado ao site.html. 
+Tirando o site.html todos os outros levam ao site.html ao clicar na logo!
